@@ -9,3 +9,4 @@
 **The first** reminder I will incorporate to myself to stay in a growth mindset will be to embrace the challenges I would have to encounter and tackle while remembering I can achieve anything I put my mind to. **The second** reminder is to put in the effort, and I must remember that not every task will be easy and that my goals are important. **The third** ~~the fourth~~ reminder is to take constructive criticism because I can learn from everyone I meet. 
 
 [github](https://github.com/deiosha)
+https://deiosha.github.io/reading-notes-102/
