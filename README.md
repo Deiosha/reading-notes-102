@@ -14,3 +14,5 @@ My Three Reminders*
 
 * [Learning Markdown](https://github.com/Deiosha/01---Learning-Markdown.git)
 * [The Coders Computer](https://github.com/Deiosha/02---The-Coder-s-Computer.git)
+* [Git Intro](https://github.com/Deiosha/Git-Intro.git)
+
