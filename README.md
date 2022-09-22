@@ -12,7 +12,7 @@ My Three Reminders*
 
 ## Table of Contents
 
+
 * [Learning Markdown](102/Class1.md)
 * [The Coders Computer](102/Class2.md)
 * [Git Intro](102/Class4.md)
-
