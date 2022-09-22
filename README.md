@@ -18,6 +18,5 @@ My Three Reminders
 
 * [HTML](102/Class3.md)
 * [Git Intro](102/Class4.md)
-* [What is CSS](102/class5.md)
-* [JavaScript](102/class6.md)
 
+* [What is CSS](102/Class5.md)
