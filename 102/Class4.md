@@ -1,8 +1,8 @@
-Reading Git Intro
+# Reading Git Intro
 
-*It is possible to see all of the view the short names, such as "origin," When running a git remote command. You can use many controls to help extract data, push, rename, etc. For example, typing in git remote -v assists you in viewing all URLs to the responding shortcut name. When “Fetching” means to extracting data from a remote project. You'll write that by using git fetch [ the-remote-name]*
+* It is possible to see all of the view the short names, such as "origin," When running a git remote command. You can use many controls to help extract data, push, rename, etc. For example, typing in git remote -v assists you in viewing all URLs to the responding shortcut name. When “Fetching” means to extracting data from a remote project. You'll write that by using git fetch [ the-remote-name]
 
-## My Cheatsheet:
+## My Cheatsheet
 
 * $ cd example
 * $ git remote -v
