@@ -12,7 +12,7 @@ My Three Reminders*
 
 ## Table of Contents
 
-* [Learning Markdown](https://github.com/Deiosha/01---Learning-Markdown.git)
-* [The Coders Computer](https://github.com/Deiosha/02---The-Coder-s-Computer.git)
-* [Git Intro](https://github.com/Deiosha/Git-Intro.git)
-* [HTML](https://github.com/Deiosha/HTML.git)
+
+* [Learning Markdown](102/Class1.md)
+* [The Coders Computer](102/Class2.md)
+* [Git Intro](102/Class4.md)
