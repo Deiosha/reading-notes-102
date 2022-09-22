@@ -12,9 +12,12 @@ My Three Reminders
 
 ## Table of Contents
 
+
 * [Learning Markdown](102/Class1.md)
 * [The Coders Computer](102/Class2.md)
+
 * [HTML](102/Class3.md)
 * [Git Intro](102/Class4.md)
 * [What is CSS](102/class5.md)
 * [JavaScript](102/class6.md)
+
