@@ -7,5 +7,7 @@ HTML has many elements:
 ## MY CHEATSHEET
 
 * <head></head> — Is the location in which our content, character set declarations, and more are placed
+
 * <title></title> — This is the location in which the name of our page is placed. The title is meant to appear in the search engine. It is also used to describe the page when you bookmark/favorite it.
+
 * <body></body> — This holds the content we may want to show other users when they look at our page.
